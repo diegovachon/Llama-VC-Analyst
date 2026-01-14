@@ -1,0 +1,12 @@
+# --- Ignorer les modèles géants (TRES IMPORTANT) ---
+*.gguf
+*.bin
+*.pt
+
+# --- Ignorer les fichiers système/python ---
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+venv/
